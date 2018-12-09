@@ -1,61 +1,31 @@
 {
-  "status_code": 200,
-  "data": {
-    "link_history": [
-      {
-        "keyword_link": "http:\/\/bit.ly\/closureMail",
-        "has_link_deeplinks": false,
-        "archived": false,
-        "user_ts": 1538803768,
-        "title": "JavaScript Closures Explained by Mailing a Package \u2013 freeCodeCamp.org",
-        "created_at": 1538803768,
-        "tags": [
-          
-        ],
-        "modified_at": 0,
-        "campaign_ids": [
-          
-        ],
-        "private": true,
-        "aggregate_link": "http:\/\/bit.ly\/2gWvCsJ",
-        "long_url": "https:\/\/medium.freecodecamp.org\/javascript-closures-explained-by-mailing-a-package-4f23e9885039",
-        "client_id": "298b336871d6aa29e06b3033269f21ced9717625",
-        "link": "http:\/\/bit.ly\/2IExC2i",
-        "is_domain_deeplink": false,
-        "encoding_user": {
-          "login": "o_1e3c72ka8t",
-          "display_name": "@lifebalance",
-          "full_name": "@lifebalance"
-        }
-      },
-      {
-        "keyword_link": "http:\/\/bit.ly\/minionCallback",
-        "has_link_deeplinks": false,
-        "archived": false,
-        "user_ts": 1538803747,
-        "title": "JavaScript Callbacks Explained Using Minions \u2013 freeCodeCamp.org",
-        "created_at": 1538803747,
-        "tags": [
-          
-        ],
-        "modified_at": 0,
-        "campaign_ids": [
-          
-        ],
-        "private": true,
-        "aggregate_link": "http:\/\/bit.ly\/2vvVQqA",
-        "long_url": "https:\/\/medium.freecodecamp.org\/javascript-callbacks-explained-using-minions-da272f4d9bcd",
-        "client_id": "298b336871d6aa29e06b3033269f21ced9717625",
-        "link": "http:\/\/bit.ly\/2IIPn0k",
-        "is_domain_deeplink": false,
-        "encoding_user": {
-          "login": "o_1e3c72ka8t",
-          "display_name": "@lifebalance",
-          "full_name": "@lifebalance"
-        }
-      }
-    ],
-    "result_count": 25986
-  },
-  "status_txt": "OK"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
