@@ -53,58 +53,6 @@
           "display_name": "@lifebalance",
           "full_name": "@lifebalance"
         }
-      },
-      {
-        "keyword_link": "http:\/\/bit.ly\/orderAjax",
-        "has_link_deeplinks": false,
-        "archived": false,
-        "user_ts": 1538803730,
-        "title": "AJAX Basics Explained By Working At A Fast Food Restaurant",
-        "created_at": 1538803730,
-        "tags": [
-          
-        ],
-        "modified_at": 0,
-        "campaign_ids": [
-          
-        ],
-        "private": true,
-        "aggregate_link": "http:\/\/bit.ly\/2GsyXrt",
-        "long_url": "https:\/\/medium.freecodecamp.org\/ajax-basics-explained-by-working-at-a-fast-food-restaurant-88d95f5fcb7a",
-        "client_id": "298b336871d6aa29e06b3033269f21ced9717625",
-        "link": "http:\/\/bit.ly\/2IIhFrQ",
-        "is_domain_deeplink": false,
-        "encoding_user": {
-          "login": "o_1e3c72ka8t",
-          "display_name": "@lifebalance",
-          "full_name": "@lifebalance"
-        }
-      },
-      {
-        "keyword_link": "http:\/\/bit.ly\/colorsCSS",
-        "has_link_deeplinks": false,
-        "archived": false,
-        "user_ts": 1538601242,
-        "title": "HTML Color Names",
-        "created_at": 1538601242,
-        "tags": [
-          
-        ],
-        "modified_at": 1538601242,
-        "campaign_ids": [
-          
-        ],
-        "private": true,
-        "aggregate_link": "http:\/\/bit.ly\/2mbmPTI",
-        "long_url": "https:\/\/www.w3schools.com\/colors\/colors_names.asp",
-        "client_id": "298b336871d6aa29e06b3033269f21ced9717625",
-        "link": "http:\/\/bit.ly\/2xZOxbs",
-        "is_domain_deeplink": false,
-        "encoding_user": {
-          "login": "o_1e3c72ka8t",
-          "display_name": "@lifebalance",
-          "full_name": "@lifebalance"
-        }
       }
     ],
     "result_count": 25986
